@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UFT-8">
+	<title>Using the style attribute</title>
+	<link rel="stylesheet" href="externalStyle.css">
+</head>
+<body>
+<h2>styled Heading</h2>
+<p>Note that only this paragraph is red, not the other.</p>
+<p> See? I am still Black.</p>
+</body>
+</html>
